@@ -118,11 +118,12 @@ section .ann {
 }
 
 footer {
-  background-color: rgb(46, 46, 46);
+  background-color: rgb(24, 24, 24);
 }
 
 footer img {
   width: 80%;
+  margin-bottom: 20px;
 }
 
 footer ul {
@@ -130,11 +131,31 @@ footer ul {
   list-style-type: none;
   display: flex;
   justify-content: space-between;
-  width: 50%;
+  width: 30%;
   font-size: 10px;
   color: rgb(90, 90, 90);
 }
 footer ul li {
   cursor: pointer;
-  text-decoration: underline dotted;
+  text-decoration: underline;
+  font-size: 1.2em;
+}
+
+footer .links {
+  display: flex;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 2em;
+  justify-content: space-between;
+  width: 20%;
+  margin-bottom: 50px;
+}
+
+footer .links ul {
+  display: block;
+}
+footer .links ul li {
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 2em;
 }
