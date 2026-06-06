@@ -17,7 +17,7 @@ A front-end mockup of [ai.com](https://ai.com), built with pure HTML & CSS — n
 - 🌊 **Full-screen Hero Section** — centered content with a BETA ACCESS badge
 - 📋 **Mission Section** — frosted glass card with the ai.com mission statement
 - 📌 **Sticky GitHub Badge** — floating widget pinned to the bottom-right corner
-- 🦶 **Footer** — with copyright and policy links
+- 🦶 **Footer** — with copyright and policy links & Social Media links
 - 🔤 **Nunito Font** — via Google Fonts
 
 ---
