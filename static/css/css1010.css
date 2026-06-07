@@ -12,7 +12,7 @@ body {
   background-attachment: fixed;
 }
 .githubrepo {
-  position: sticky;
+  position: fixed;
   width: fit-content;
   right: 0;
   bottom: 0;
@@ -21,6 +21,7 @@ body {
   margin: 10px;
   margin-left: auto;
   border-radius: 10px;
+  border: 1px solid rgb(70, 70, 70);
 }
 .githubrepo button {
   margin-top: 10px;
